@@ -32,7 +32,7 @@ function addDocument(options, callback) {
   });
 }
 
-db.createCollection('journals', handleCallback);
+//db.createCollection('journals', handleCallback);
 
 journals.ensureIndex(textIndexFields, {'default_language': 'nb'}, function(err, data){
   if (err) {
