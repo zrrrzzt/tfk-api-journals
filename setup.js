@@ -42,7 +42,7 @@ journals.ensureIndex(textIndexFields, {'default_language': 'nb'}, function(err, 
   }
 });
 
-db.journals.ensureIndex({'JOURNPOST_OJ.JP_JDATO': 1}, function(err, data){
+journals.ensureIndex({'JOURNPOST_OJ.JP_JDATO': 1}, function(err, data){
   if (err) {
     console.error(err);
   } else {

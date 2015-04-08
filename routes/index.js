@@ -1,6 +1,6 @@
 'use strict';
 
-var handlers = require('../handlers/journals');
+var handlers = require('../handlers');
 var routes;
 
 routes = [
