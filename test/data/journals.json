@@ -1,483 +1,323 @@
-[
-  {
-    "sakId":"2014_63",
-    "SA_SAAR":2014,
-    "SA_SEKNR":63,
-    "SA_SAKNR":"14/00063",
-    "SA_OFFTITTEL": "Høring - forslag om endringer i forskrift om opptak til høyere utdanning",
-    "SA_ADMKORT":"Seksjon for kvalitet og utvikling",
-    "SA_ANSVINIT":"myhn",
-    "KLASSERING_OJ": [
+{
+  _id: "5523d026b8eaac411a8b4598",
+  sakId: "2014_1325",
+  SA_SAAR: 2014,
+  SA_SEKNR: 1325,
+  SA_SAKNR: "14/01325",
+  SA_OFFTITTEL: "Riksantikvarens midler til fredete bygninger, anlegg og kulturmiljø - 2013",
+  SA_ADMKORT: "Team kulturminnevern",
+  SA_ANSVINIT: "rang",
+  KLASSERING_OJ: [
+    {
+      KL_ORDNVERDI: "---",
+      KL_SORT: 1,
+      KL_OPLTEKST: "---"
+    }
+  ],
+  JOURNPOST_OJ: {
+    JP_SEKNR: 270,
+    JP_DOKNR: "14/01325-2",
+    JP_POSTNR: 2,
+    JP_JDATO: 20150330,
+    JP_NDOKTYPE: "I",
+    JP_DOKDATO: 20141217,
+    JP_OFFINNHOLD: "Riksantikvaren sluttrapport Villa Busk arbeider overlysvindu badet",
+    JP_TGKODE: "Ugradert",
+    JP_TGVERDI: 0,
+    JP_ANSVAVD: "Team kulturminnevern",
+    AVSMOT_OJ: {
+      PNAVN: "Busk Lydstudio",
+      AM_IHTYPE: 0
+    },
+    JP_DOKUMENTER: [
       {
-        "KL_ORDNVERDI":"---",
-        "KL_SORT":1,
-        "KL_OPLTEKST":"---"
-      }
-    ],
-    "JOURNPOST_OJ" : {
-      "JP_JAAR":2014,
-      "JP_SEKNR":209,
-      "JP_DOKNR":"14/00063-1",
-      "JP_POSTNR":1,
-      "JP_JDATO":20141016,
-      "JP_NDOKTYPE":"I",
-      "JP_DOKDATO":20141003,
-      "JP_OFFINNHOLD":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning",
-      "JP_TGKODE":"Ugradert",
-      "JP_TGVERDI":0,
-      "JP_ANSVAVD":"Seksjon for kvalitet og utvikling",
-      "AVSMOT_OJ" : {
-        "AM_NAVN":"Det kongelige kunnskapsdepartementet",
-        "AM_IHTYPE":0
-      },
-      "JP_DOKUMENTER": [
-        {
-          "DL_RNR":1,
-          "DL_DOKID":203458,
-          "DL_TYPE":"H",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning (L)(8.pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203458_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":2,
-          "DL_DOKID":203459,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"§4-7 opptakskrav i matematikk.docx (L)(839737).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203459_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":3,
-          "DL_DOKID":203460,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringer-rundskriv -Adressater.docx (L)(842204).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203460_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":4,
-          "DL_DOKID":203461,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning.msg",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203461_1_1.PDF"
-            }
+        DL_RNR: 1,
+        DL_DOKID: 223915,
+        DL_TYPE: "H",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren sluttrapport Villa Busk arbeider overlysvindu badet.msg",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223915_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223915_1_1.PDF"
           }
         }
-      ]
-    }
-  },
-  {
-    "sakId":"2014_64",
-    "SA_SAAR":2014,
-    "SA_SEKNR":64,
-    "SA_SAKNR":"14/00064",
-    "SA_OFFTITTEL": "Mer pause på dagtid",
-    "SA_ADMKORT":"Personal- og organisasjonsavdelingen",
-    "SA_ANSVINIT":"avst",
-    "KLASSERING_OJ": [
-      {
-        "KL_ORDNVERDI":"---",
-        "KL_SORT":1,
-        "KL_OPLTEKST":"---"
       },
       {
-        "KL_ORDNVERDI":"A00",
-        "KL_SORT":2,
-        "KL_OPLTEKST":"A00",
-        "KL_OVBESK":"Opplæring (de enkelte skoleslag) - Felles - Felles"
-      }
-    ],
-    "JOURNPOST_OJ" : {
-      "JP_JAAR":2014,
-      "JP_SEKNR":210,
-      "JP_DOKNR":"14/00064-1",
-      "JP_POSTNR":1,
-      "JP_JDATO":20141016,
-      "JP_NDOKTYPE":"I",
-      "JP_DOKDATO":20141003,
-      "JP_OFFINNHOLD":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning",
-      "JP_TGKODE":"Ugradert",
-      "JP_TGVERDI":0,
-      "JP_ANSVAVD":"Seksjon for kvalitet og utvikling",
-      "AVSMOT_OJ" : {
-        "AM_NAVN":"Det kongelige kunnskapsdepartementet",
-        "AM_IHTYPE":0
-      },
-      "JP_DOKUMENTER": [
-        {
-          "DL_RNR":1,
-          "DL_DOKID":20362,
-          "DL_TYPE":"H",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning (L)(8.pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203462_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":2,
-          "DL_DOKID":203463,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"§4-7 opptakskrav i matematikk.docx (L)(839737).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203463_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":3,
-          "DL_DOKID":203464,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringer-rundskriv -Adressater.docx (L)(842204).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203464_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":4,
-          "DL_DOKID":203465,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning.msg",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203465_1_1.PDF"
-            }
+        DL_RNR: 2,
+        DL_DOKID: 223916,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Overlysvindu bad ferdig fra syd.JPG",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223916_1_1.JPG",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223916_1_1.JPG"
           }
         }
-      ]
-    }
-  },
-  {
-    "sakId":"2014_65",
-    "SA_SAAR":2014,
-    "SA_SEKNR":65,
-    "SA_SAKNR":"14/00065",
-    "SA_OFFTITTEL": "Høring - forslag om endringer i forskrift om opptak til høyere utdanning",
-    "SA_ADMKORT":"Seksjon for kvalitet og utvikling",
-    "SA_ANSVINIT":"myhn",
-    "KLASSERING_OJ": [
-      {
-        "KL_ORDNVERDI":"---",
-        "KL_SORT":1,
-        "KL_OPLTEKST":"---"
-      }
-    ],
-    "JOURNPOST_OJ" : {
-      "JP_JAAR":2014,
-      "JP_SEKNR":211,
-      "JP_DOKNR":"14/00065-1",
-      "JP_POSTNR":1,
-      "JP_JDATO":20141016,
-      "JP_NDOKTYPE":"I",
-      "JP_DOKDATO":20141003,
-      "JP_OFFINNHOLD":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning",
-      "JP_TGKODE":"Ugradert",
-      "JP_TGVERDI":0,
-      "JP_ANSVAVD":"Seksjon for kvalitet og utvikling",
-      "AVSMOT_OJ" : {
-        "AM_NAVN":"Det kongelige kunnskapsdepartementet",
-        "AM_IHTYPE":0
       },
-      "JP_DOKUMENTER": [
-        {
-          "DL_RNR":1,
-          "DL_DOKID":203465,
-          "DL_TYPE":"H",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning (L)(8.pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203465_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":2,
-          "DL_DOKID":203466,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"§4-7 opptakskrav i matematikk.docx (L)(839737).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203466_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":3,
-          "DL_DOKID":203467,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringer-rundskriv -Adressater.docx (L)(842204).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203467_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":4,
-          "DL_DOKID":203468,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning.msg",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203468_1_1.PDF"
-            }
+      {
+        DL_RNR: 3,
+        DL_DOKID: 223917,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Overlysvindu bad ferdig fra vest.JPG",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223917_1_1.JPG",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223917_1_1.JPG"
           }
         }
-      ]
-    }
-  },
-  {
-    "sakId":"2014_80",
-    "SA_SAAR":2014,
-    "SA_SEKNR":80,
-    "SA_SAKNR":"14/00080",
-    "SA_OFFTITTEL": "Høring - forslag om endringer i forskrift om opptak til høyere utdanning",
-    "SA_ADMKORT":"Seksjon for kvalitet og utvikling",
-    "SA_ANSVINIT":"myhn",
-    "KLASSERING_OJ": [
-      {
-        "KL_ORDNVERDI":"---",
-        "KL_SORT":1,
-        "KL_OPLTEKST":"---"
-      }
-    ],
-    "JOURNPOST_OJ" : {
-      "JP_JAAR":2014,
-      "JP_SEKNR":300,
-      "JP_DOKNR":"14/00080-1",
-      "JP_POSTNR":1,
-      "JP_JDATO":20141016,
-      "JP_NDOKTYPE":"I",
-      "JP_DOKDATO":20141003,
-      "JP_OFFINNHOLD":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning",
-      "JP_TGKODE":"Ugradert",
-      "JP_TGVERDI":0,
-      "JP_ANSVAVD":"Seksjon for kvalitet og utvikling",
-      "AVSMOT_OJ" : {
-        "AM_NAVN":"Det kongelige kunnskapsdepartementet",
-        "AM_IHTYPE":0
       },
-      "JP_DOKUMENTER": [
-        {
-          "DL_RNR":1,
-          "DL_DOKID":203500,
-          "DL_TYPE":"H",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning (L)(8.pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203500_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":2,
-          "DL_DOKID":203501,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"§4-7 opptakskrav i matematikk.docx (L)(839737).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203501_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":3,
-          "DL_DOKID":203502,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringer-rundskriv -Adressater.docx (L)(842204).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203503_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":4,
-          "DL_DOKID":203503,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning.msg",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203503_1_1.PDF"
-            }
+      {
+        DL_RNR: 4,
+        DL_DOKID: 223918,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Overlysvindu ferdig fra nord.JPG",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223918_1_1.JPG",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223918_1_1.JPG"
           }
         }
-      ]
-    }
-  },
-  {
-    "sakId":"2014_100",
-    "SA_SAAR":2014,
-    "SA_SEKNR":100,
-    "SA_SAKNR":"14/00100",
-    "SA_OFFTITTEL": "Høring - forslag om endringer i forskrift om opptak til høyere utdanning",
-    "SA_ADMKORT":"Seksjon for kvalitet og utvikling",
-    "SA_ANSVINIT":"myhn",
-    "KLASSERING_OJ": [
-      {
-        "KL_ORDNVERDI":"---",
-        "KL_SORT":1,
-        "KL_OPLTEKST":"---"
-      }
-    ],
-    "JOURNPOST_OJ" : {
-      "JP_JAAR":2014,
-      "JP_SEKNR":400,
-      "JP_DOKNR":"14/00100-1",
-      "JP_POSTNR":1,
-      "JP_JDATO":20141017,
-      "JP_NDOKTYPE":"I",
-      "JP_DOKDATO":20141004,
-      "JP_OFFINNHOLD":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning",
-      "JP_TGKODE":"Ugradert",
-      "JP_TGVERDI":0,
-      "JP_ANSVAVD":"Seksjon for kvalitet og utvikling",
-      "AVSMOT_OJ" : {
-        "AM_NAVN":"Det kongelige kunnskapsdepartementet",
-        "AM_IHTYPE":0
       },
-      "JP_DOKUMENTER": [
-        {
-          "DL_RNR":1,
-          "DL_DOKID":203500,
-          "DL_TYPE":"H",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning (L)(8.pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203500_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":2,
-          "DL_DOKID":203501,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"§4-7 opptakskrav i matematikk.docx (L)(839737).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203501_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":3,
-          "DL_DOKID":203502,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringer-rundskriv -Adressater.docx (L)(842204).pdf",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203503_1_1.PDF"
-            }
-          }
-        },
-        {
-          "DL_RNR":4,
-          "DL_DOKID":203503,
-          "DL_TYPE":"V",
-          "DOKBESKRIV_OJ":{
-            "DB_TITTEL":"Høringsbrev - forslag om endringer i forskrift om opptak til høyere utdanning.msg",
-            "DB_TGKODE":"Ugradert",
-            "DB_TGVERDI":0,
-            "DOKVERSJON_OJ": {
-              "VE_VERSJON":1,
-              "VE_VARIANT":"A",
-              "VE_FILREF":"203503_1_1.PDF"
-            }
+      {
+        DL_RNR: 5,
+        DL_DOKID: 223919,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren faktura Boligbyggelagenes Boservice overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223919_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223919_1_1.PDF"
           }
         }
-      ]
-    }
+      },
+      {
+        DL_RNR: 6,
+        DL_DOKID: 223920,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren faktura Glassmester Thowsen overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223920_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223920_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 7,
+        DL_DOKID: 223921,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren sluttrapport overlysvindu bad side 1.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223921_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223921_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 8,
+        DL_DOKID: 223922,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren sluttrapport overlysvindu bad side 2.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223922_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223922_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 9,
+        DL_DOKID: 223923,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren sluttrapport overlysvindu bad side 3.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223923_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223923_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 10,
+        DL_DOKID: 223924,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 1 Carlsen Fritzøe overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223924_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223924_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 11,
+        DL_DOKID: 223925,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 2 Carlsen Fritzøe overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223925_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223925_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 12,
+        DL_DOKID: 223926,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 3 Carlsen Fritzøe overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223926_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223926_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 13,
+        DL_DOKID: 223927,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 4 Blikkenslager Lauritzen overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223927_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223927_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 14,
+        DL_DOKID: 223928,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 5 Blikkenslager Lauritzen overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223928_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223928_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 15,
+        DL_DOKID: 223929,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 6 Motek overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223929_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223929_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 16,
+        DL_DOKID: 223930,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 7 Motek 2 overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223930_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223930_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 17,
+        DL_DOKID: 223931,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 8 Carlsen Fritzøe overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223931_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223931_1_1.PDF"
+          }
+        }
+      },
+      {
+        DL_RNR: 18,
+        DL_DOKID: 223932,
+        DL_TYPE: "V",
+        DOKBESKRIV_OJ: {
+          DB_TITTEL: "Riksantikvaren underbilag 9 Carlsen Fritzøe overlysvindu bad.pdf",
+          DB_TGKODE: "Ugradert",
+          DB_TGVERDI: 0,
+          DOKVERSJON_OJ: {
+            VE_VERSJON: 1,
+            VE_VARIANT: "A",
+            VE_FILREF: "223932_1_1.PDF",
+            VE_FILURL: "https://files.t-fk.no/journals/20150330 - 20150330/223932_1_1.PDF"
+          }
+        }
+      }
+    ]
   }
-]
+}

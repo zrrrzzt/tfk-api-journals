@@ -20,8 +20,10 @@ function handleCallback(error, data) {
 
 function addDocument(options, callback) {
   var collection = db.collection(options.collection);
+  var document = options.document;
+  document._id = mongojs.ObjectId(document._id);
 
-  collection.insert(options.document, function(err, data){
+  collection.insert(document, function(err, data){
     if (err) {
       return callback(err, null);
     } else {

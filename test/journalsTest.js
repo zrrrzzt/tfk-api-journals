@@ -37,20 +37,20 @@ describe('Server journals', function() {
     });
   });
 
-  describe('GET /journals/date/20141016', function() {
+  describe('GET /journals/date/20150330', function() {
     it('respond with json', function(done) {
       request
-        .get('/journals/date/20141016')
+        .get('/journals/date/20150330')
         .set('Accept', 'application/json')
         .expect('Content-Type', /json/)
         .expect(200, done);
     });
   });
 
-  describe('GET /journals/date/20141016/20141016', function() {
+  describe('GET /journals/date/20150330/20150330', function() {
     it('respond with json', function(done) {
       request
-        .get('/journals/date/20141016/20141016')
+        .get('/journals/date/20150330/20150330')
         .set('Accept', 'application/json')
         .expect('Content-Type', /json/)
         .expect(200, done);
@@ -67,9 +67,9 @@ describe('Server journals', function() {
     });
   });
 
-  describe('GET /journals/department/Seksjon for kvalitet og utvikling', function() {
+  describe('GET /journals/department/Team kulturminnevern', function() {
     it('respond with json', function(done) {
-      var department = cipher.encrypt('Seksjon for kvalitet og utvikling');
+      var department = cipher.encrypt('Team kulturminnevern');
       request
         .get('/journals/department/' + department)
         .set('Accept', 'application/json')
@@ -78,21 +78,21 @@ describe('Server journals', function() {
     });
   });
 
-  describe('GET /journals/department/Seksjon for kvalitet og utvikling?date=20141016', function() {
+  describe('GET /journals/department/Team kulturminnevern?date=20150330', function() {
     it('respond with json', function(done) {
-      var department = cipher.encrypt('Seksjon for kvalitet og utvikling');
+      var department = cipher.encrypt('Team kulturminnevern');
       request
-        .get('/journals/department/' + department + '?date=20141016')
+        .get('/journals/department/' + department + '?date=20150330')
         .set('Accept', 'application/json')
         .expect('Content-Type', /json/)
         .expect(200, done);
     });
   });
 
-  describe('GET /journals/collection/65', function() {
+  describe('GET /journals/collection/1325', function() {
     it('respond with json', function(done) {
       request
-        .get('/journals/collection/65')
+        .get('/journals/collection/1325')
         .set('Accept', 'application/json')
         .expect('Content-Type', /json/)
         .expect(200, done);
@@ -109,17 +109,17 @@ describe('Server journals', function() {
     });
   });
 
-  describe('GET /journal/211', function() {
+  describe('GET /journal/5523d026b8eaac411a8b4598', function() {
     it('respond with json', function(done) {
       request
-        .get('/journal/211')
+        .get('/journal/5523d026b8eaac411a8b4598')
         .set('Accept', 'application/json')
         .expect('Content-Type', /json/)
         .expect(200, done);
     });
   });
 
-  describe('GET /journals/forslag', function() {
+  describe('GET /journals/riksantikvaren', function() {
     it('respond with json', function(done) {
       request
         .get('/journals/forslag')
