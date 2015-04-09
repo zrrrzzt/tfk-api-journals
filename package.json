@@ -36,6 +36,8 @@
     "supertest": "^0.15.0"
   },
   "dependencies": {
+    "joi": "^6.1.0",
+    "lout": "^6.2.2",
     "mongojs": "^0.18.2",
     "util-api-cipher": "git+https://github.com/telemark/util-api-cipher.git"
   }

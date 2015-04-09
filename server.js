@@ -1,6 +1,7 @@
 'use strict';
 
 var Hapi = require('hapi');
+var apidocsService = require('lout');
 var config = require('./config');
 var server = new Hapi.Server();
 var journalsService = require('./index');
@@ -11,6 +12,10 @@ server.connection({
 });
 
 server.register([
+  {
+    register: apidocsService,
+    options: {}
+  },
   {
     register: journalsService,
     options: {}
