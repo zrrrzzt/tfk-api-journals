@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "joi": "^10.0.0",
-    "lout": "^10.0.0",
+    "lout": "^10.0.2",
     "mongojs": "^2.4.0",
     "util-api-cipher": "git+https://github.com/telemark/util-api-cipher.git"
   }
