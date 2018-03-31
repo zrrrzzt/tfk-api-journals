@@ -30,7 +30,7 @@
     "url": "http://github.com/zrrrzzt/tfk-api-journals/issues"
   },
   "devDependencies": {
-    "hapi": "^16.0.2",
+    "hapi": "^17.3.0",
     "jscs": "^3.0.7",
     "mocha": "^5.0.0",
     "supertest": "^3.0.0"
